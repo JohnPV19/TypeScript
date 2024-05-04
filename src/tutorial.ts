@@ -1,12 +1,9 @@
-let awesomeName:string = 'shakeAndBake';
-awesomeName = 'something';
-awesomeName = awesomeName.toUpperCase();
-console.log(awesomeName);
+let tax:number | string = 10;
+tax = 100;
+tax = '$10';
 
 
-let amount:number= 20;
-amount = 12-1;
+let requestStatus: 'pending' | 'success' | 'error' = 'pending' ;
+requestStatus = 'success';
+requestStatus = 'error';
 
-
-let isAwesome:boolean= true;
-isAwesome = false;
