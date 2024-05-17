@@ -5,6 +5,7 @@ tax = '$10';
 let banana:number| string = 10;
 banana= 20;
 banana = '22';
+banana = '23';
 
 let requestStatus: 'pending' | 'success' | 'error' = 'pending' ;
 requestStatus = 'success';
