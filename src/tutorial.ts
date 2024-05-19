@@ -5,10 +5,13 @@ tax = '$10';
 let banana:number| string = 10;
 banana= 20;
 banana = '22';
-banana = '25';
+banana = '25git ';
 
 let requestStatus: 'pending' | 'success' | 'error' = 'pending' ;
 requestStatus = 'success';
 requestStatus = 'error';
  console.log(tax)
  console.log(banana)
+
+
+ // testing
