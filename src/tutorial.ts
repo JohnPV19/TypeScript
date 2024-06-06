@@ -33,4 +33,5 @@ requestStatus = 'error';
  // changing topic to exercise
 
  // next exercise 2
+ console.log("i am here")
  
